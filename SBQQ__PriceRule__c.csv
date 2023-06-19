@@ -1,0 +1,7 @@
+"Guid","Emailmanaged__c","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__Product__c","SBQQ__TargetObject__c"
+062f72ad-66fd-4da6-b08f-d0feb62c77f3,"#N/A",Test 123,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Configurator
+11f7ae65-5dbc-4e70-9c5c-9f8dd7f3ce7d,"#N/A",Rule2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Configurator
+49792428-8734-4224-a139-6f98c05caf3a,"#N/A",Set Approval Level,true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,100.0,"#N/A","#N/A",Calculator
+74464214-3c32-460e-b5ab-1a4f7fa1f6e4,"#N/A",Rule1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Configurator
+9924d58f-cad1-4c8a-bfc0-223e62d19482,"#N/A",Rule 12345,true,1 AND 0,Custom,"#N/A",On Calculate,1.0,"#N/A","#N/A",Calculator
+f64f6af0-c84e-410c-b820-ab3adf6bd80b,"#N/A",TestRule1,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Calculator
